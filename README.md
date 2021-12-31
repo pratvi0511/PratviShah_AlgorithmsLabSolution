@@ -11,7 +11,7 @@ Enter the total no of targets that needs to be achieved\
 2\
 Enter the value of target\
 21\
-Target achieved after 2 transactions\ 
+Target achieved after 2 transactions 
 Enter the value of target\
 19\
 Target achieved after 1 transactions \
@@ -28,7 +28,7 @@ Enter the values of array\
 Enter the total no of targets that needs to be achieved\
 1\
 Enter the value of target\
-101\ 
+101 <br />
 Given target is not achieved\
 Explanation → Since there is only 1 transaction that is of 100 and the target value is 101, hence target is not achieved.
 -----------------------------------------------------------------------------------------------------------
@@ -38,10 +38,10 @@ You want to make a payment of amount x, in such a way that the number of notes y
 Assume that the denominations are in such a way that any amount can be paid.
 Input\
 Take input of all the currency denominations ( random order)\
-Lab 2 – Algorithms Problem Statement\
 Take input of the amount that you want to pay.\
 Output\
 Print the minimum no of notes that you will be using to pay the net amount.\
+-------------------------------------------------------
 >TestCase 1
 Enter the size of currency denominations \
 3\
@@ -50,10 +50,11 @@ Enter the currency denominations value\
 1\
 10\
 Enter the amount you want to pay\
-12\ 
+12<br />
 Your payment approach in order to give min no of notes will be\
 10:1\
 1:2\
+-------------------------------------------------------
 >TestCase 2\
 Enter the size of currency denominations\
 5\
@@ -68,6 +69,7 @@ Enter the amount you want to pay\
 Your payment approach in order to give min no of notes will be\
 78:1\
 25:2\
+-------------------------------------------------------
 >TestCase 3\
 Enter the size of currency denominations\
 4\
