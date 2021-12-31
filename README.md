@@ -30,12 +30,11 @@ Enter the total no of targets that needs to be achieved\
 Enter the value of target\
 101 <br />
 Given target is not achieved\
-Explanation → Since there is only 1 transaction that is of 100 and the target value is 101, hence target is not achieved.<br />
+_Explanation → Since there is only 1 transaction that is of 100 and the target value is 101, hence target is not achieved._<br />
 
 Question 2                                                 
-You are a traveler and traveling to a country where the currency denominations are unknown and as you travel, you get to know about the denomination in random order.
-You want to make a payment of amount x, in such a way that the number of notes you give is minimum.\
-Assume that the denominations are in such a way that any amount can be paid.
+You are a traveler and traveling to a country where the currency denominations are unknown and as you travel, you get to know about the denomination in random order. You want to make a payment of amount x, in such a way that the number of notes you give is minimum.
+Assume that the denominations are in such a way that any amount can be paid.\
 Input\
 Take input of all the currency denominations ( random order)\
 Take input of the amount that you want to pay.\
