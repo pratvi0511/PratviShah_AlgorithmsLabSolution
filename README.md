@@ -1,5 +1,5 @@
 # PratviShah_AlgorithmsLabSolution
-Question 1\                                                 
+Question 1                                                 
 PayMoney. processes thousands of transactions daily amounting to crores of Rupees. They also have a daily target that they must achieve. Given a list of transactions done by 
 PayMoney and a daily target, your task is to determine at which transaction PayMoney achieves the same. If the target is not achievable, then display the target is not achieved.
 >TestCase 1\
@@ -28,11 +28,11 @@ Enter the values of array\
 Enter the total no of targets that needs to be achieved\
 1\
 Enter the value of target\
-101 
+101\ 
 Given target is not achieved\
 Explanation → Since there is only 1 transaction that is of 100 and the target value is 101, hence target is not achieved.
 -----------------------------------------------------------------------------------------------------------
-Question 2\                                                 
+Question 2                                                 
 You are a traveler and traveling to a country where the currency denominations are unknown and as you travel, you get to know about the denomination in random order.
 You want to make a payment of amount x, in such a way that the number of notes you give is minimum.\
 Assume that the denominations are in such a way that any amount can be paid.
