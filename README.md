@@ -11,7 +11,7 @@ Enter the total no of targets that needs to be achieved\
 2\
 Enter the value of target\
 21\
-Target achieved after 2 transactions 
+Target achieved after 2 transactions <br />
 Enter the value of target\
 19\
 Target achieved after 1 transactions \
@@ -30,8 +30,8 @@ Enter the total no of targets that needs to be achieved\
 Enter the value of target\
 101 <br />
 Given target is not achieved\
-Explanation → Since there is only 1 transaction that is of 100 and the target value is 101, hence target is not achieved.
------------------------------------------------------------------------------------------------------------
+Explanation → Since there is only 1 transaction that is of 100 and the target value is 101, hence target is not achieved.<br />
+
 Question 2                                                 
 You are a traveler and traveling to a country where the currency denominations are unknown and as you travel, you get to know about the denomination in random order.
 You want to make a payment of amount x, in such a way that the number of notes you give is minimum.\
@@ -40,7 +40,7 @@ Input\
 Take input of all the currency denominations ( random order)\
 Take input of the amount that you want to pay.\
 Output\
-Print the minimum no of notes that you will be using to pay the net amount.\
+Print the minimum no of notes that you will be using to pay the net amount.
 -------------------------------------------------------
 >TestCase 1
 Enter the size of currency denominations \
@@ -53,7 +53,7 @@ Enter the amount you want to pay\
 12<br />
 Your payment approach in order to give min no of notes will be\
 10:1\
-1:2\
+1:2
 -------------------------------------------------------
 >TestCase 2\
 Enter the size of currency denominations\
@@ -68,7 +68,7 @@ Enter the amount you want to pay\
 128\
 Your payment approach in order to give min no of notes will be\
 78:1\
-25:2\
+25:2
 -------------------------------------------------------
 >TestCase 3\
 Enter the size of currency denominations\
